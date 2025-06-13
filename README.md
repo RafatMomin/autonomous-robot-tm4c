@@ -25,7 +25,8 @@ This project implements an autonomous mobile robot using the iRobot Create 2 pla
 - **Real-time Event Handling and Servo Control**
 
 ## 🗂️ Project Structure
-
+📁 robot-survivor-scan
+├── src/
 ├── main.c # Main controller logic
 │ ├── servo.c # Servo control logic
 │ ├── ping.c # Ultrasonic distance measurement
